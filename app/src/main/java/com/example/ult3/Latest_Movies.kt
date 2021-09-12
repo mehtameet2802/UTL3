@@ -24,7 +24,7 @@ import java.util.*
 class Latest_Movies : Fragment() {
 
 
-        private val category:String="popular"
+//        private val category:String="popular"
 //    private val api_key: String ="?api_key=a631feaba1636b38b4d07a2fb9d1ac4a"
     private val url:String = "https://api.themoviedb.org/3/movie/"
 //   https://api.themoviedb.org/3/movie/popular?api_key=a631feaba1636b38b4d07a2fb9d1ac4a"
